@@ -1,6 +1,6 @@
 cask "passband" do
-  version "0.0.4"
-  sha256 "a48cd1a30ac8a922e1e498cd5208660b95798017b2932474f0fafa534a62523c"
+  version "0.0.5"
+  sha256 "759a684e74a7035523f340860e945f6f7bc81fa7eee2aabb9f33db7430ad8b05"
 
   url "https://passband.app/download/Passband-#{version}.zip"
   name "Passband"
